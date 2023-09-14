@@ -33,3 +33,17 @@ h2{
     font-weight: 100;
     margin: 40px auto;
 }
+
+/* number-address-hours area */
+
+.number-address-hours{
+    margin: 40px auto;
+}
+
+.number-address-hours > *{
+    font-family: monospace;
+    font-size: 16px;
+    line-height: 1.2;
+    font-weight: 100;
+    margin: 15px 0 15px 0; 
+}
