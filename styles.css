@@ -1,5 +1,6 @@
 .wrapper{
-    margin: 0 70px 0 70px;
+    margin-right:min(16vw, 70px);
+    margin-left:min(16vw, 70px);
 }
 
 /* header */
