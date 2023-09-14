@@ -52,6 +52,10 @@ h2{
     margin: 15px 0 15px 0; 
 }
 
+address{
+    font-style: normal;
+}
+
 /* instagram feed area */
 .instagram-feed{
     margin: 80px 0 80px 0;
