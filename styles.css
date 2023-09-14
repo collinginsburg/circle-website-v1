@@ -1,6 +1,7 @@
 .wrapper{
     margin-right:min(16vw, 70px);
     margin-left:min(16vw, 70px);
+    padding-bottom: 50px;
 }
 
 /* header */
