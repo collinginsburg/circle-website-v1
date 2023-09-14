@@ -1,6 +1,6 @@
 .wrapper{
-    margin-right:min(16vw, 70px);
-    margin-left:min(16vw, 70px);
+    margin-right:min(16vw, 120px);
+    margin-left:min(16vw, 120px);
     padding-bottom: 50px;
 }
 
@@ -39,6 +39,9 @@ h2{
 
 .number-address-hours{
     margin: 40px auto;
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
 }
 
 .number-address-hours > *{
