@@ -1,0 +1,68 @@
+.wrapper{
+    margin-right:min(16vw, 120px);
+    margin-left:min(16vw, 120px);
+    padding-bottom: 50px;
+}
+
+/* header */
+
+header{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 50px;
+}
+.circle-logo{
+    max-height: 47px;
+    display: flex;
+    align-self: center;
+}
+h1{
+    font-size: 20px;
+    display: flex;
+    align-self: center;
+    text-transform: lowercase;
+    font-style: italic;
+}
+
+/* description */
+
+h2{
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 16px;
+    line-height: 1.2;
+    font-weight: 300;
+    margin: 40px auto;
+}
+
+/* number-address-hours area */
+
+.number-address-hours{
+    margin: 40px auto;
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+}
+
+.number-address-hours > *{
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 16px;
+    line-height: 1.2;
+    font-weight: 300;
+    margin: 15px 0 15px 0; 
+}
+
+address{
+    font-style: normal;
+}
+
+/* instagram feed area */
+.instagram-feed{
+    margin: 80px 0 80px 0;
+}
+.instagram-feed > *{
+    margin-bottom: 100px;
+}
+
+/* fonts */
+
